@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class In28MinLimitsServiceApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(In28MinLimitsServiceApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(In28MinLimitsServiceApplication.class, args);
+    }
 
 }
