@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.clarke.microservice.limits</groupId>
-    <artifactId>In28Min-Limits-Service</artifactId>
+    <artifactId>limits-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>In28Min Limits Service</name>
     <description>Demo project for Spring Boot</description>
