@@ -11,7 +11,7 @@
     <groupId>com.clarke.microservice.limits</groupId>
     <artifactId>limits-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>In28Min Limits Service</name>
+    <name>In28Min Limits</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
